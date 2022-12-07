@@ -2,7 +2,7 @@
 
 Question and Answer REST API built with Go and Docker.
 
-PostgresSQL has been used to persist data and docker compose has been used to manage containers.
+PostgreSQL has been used to persist data and docker compose has been used to manage containers.
 
 ## Prerequisites
 
